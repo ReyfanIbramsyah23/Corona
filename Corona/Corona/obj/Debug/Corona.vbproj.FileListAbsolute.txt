@@ -1,0 +1,10 @@
+D:\Sekolah\PTS\Corona\Corona\bin\Debug\Corona.exe.config
+D:\Sekolah\PTS\Corona\Corona\bin\Debug\Corona.exe
+D:\Sekolah\PTS\Corona\Corona\bin\Debug\Corona.pdb
+D:\Sekolah\PTS\Corona\Corona\bin\Debug\Corona.xml
+D:\Sekolah\PTS\Corona\Corona\obj\Debug\Corona.Form1.resources
+D:\Sekolah\PTS\Corona\Corona\obj\Debug\Corona.Resources.resources
+D:\Sekolah\PTS\Corona\Corona\obj\Debug\Corona.vbproj.GenerateResource.Cache
+D:\Sekolah\PTS\Corona\Corona\obj\Debug\Corona.exe
+D:\Sekolah\PTS\Corona\Corona\obj\Debug\Corona.xml
+D:\Sekolah\PTS\Corona\Corona\obj\Debug\Corona.pdb
